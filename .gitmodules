@@ -1,0 +1,3 @@
+[submodule "Techdome-frontend"]
+	path = Techdome-frontend
+	url = https://github.com/akanksha7666/Techdome-frontend.git
